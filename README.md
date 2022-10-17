@@ -1,2 +1,2 @@
 # Data-Science
-This repo contains the data science related projects.
+This repo contains my data science related projects.
